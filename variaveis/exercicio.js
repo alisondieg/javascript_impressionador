@@ -27,9 +27,9 @@ let endereco;
 let telefone; 
 
 //07 Declare variaveis com nomes decritivos para armazenar o nome de um produto, seu preço e a quantidade em estoque
-let produto = 'Pão';
-let preco = 5.49;
-let quantidadeEstoque = 8;
+let nomeProduto = 'Pão';
+let precoProduto = 5.49;
+let quantidadeEmEstoque = 8;
 
 //08 Declare uma variavel para armazenar o nome de uma cidade e outra para armazenar a sua população e exiba uma mensagem combinando ambas variaveis
 let cidade = 'Rio Negrinho';
