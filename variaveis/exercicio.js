@@ -15,9 +15,8 @@ nome = 'Diego';
 idade = 25;
 isStudent = false;
 
-console.log(nome);
-console.log(idade);
-console.log(isStudent);
+console.log(nome, idade, isStudent);
+
 
 //05Crie uma variavel constante que armazene um numero e improima o valor dela no terminal
 const PI = 3.14;
