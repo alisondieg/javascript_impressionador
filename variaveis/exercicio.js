@@ -34,4 +34,4 @@ let quantidadeEmEstoque = 8;
 //08 Declare uma variavel para armazenar o nome de uma cidade e outra para armazenar a sua população e exiba uma mensagem combinando ambas variaveis
 let cidade = 'Rio Negrinho';
 let populacao = 40000;
-console.log(`A cidade de ${cidade} possiui ${populacao} habitantes.`)
+console.log(`A cidade de ${cidade} possiui ${populacao} habitantes.`) //String template literal
